@@ -1,0 +1,6 @@
+
+;; Keyword
+
+[
+ "@proc"
+] @keywords
